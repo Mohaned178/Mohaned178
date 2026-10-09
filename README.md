@@ -2,7 +2,8 @@
 
 I'm **Mohanad**, a **Software Engineer** focused on robust, scalable **backend development** — primarily with **.NET / ASP.NET Core**, and increasingly **TypeScript (Node.js, NestJS)**. I build APIs and systems guided by **Clean Architecture** and **SOLID** principles.
 
-🌐 Portfolio: [mohaned178.github.io/Portfolio](https://mohaned178.github.io/Portfolio/)
+🌐 Portfolio: [mohaned178.github.io/Portfolio](https://mohaned178.github.io/Portfolio/)  
+💼 LinkedIn: [linkedin.com/in/mmohanadhesham](https://www.linkedin.com/in/mmohanadhesham/)
 
 ### 🛠️ Tech Stack
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
@@ -40,18 +41,7 @@ I'm **Mohanad**, a **Software Engineer** focused on robust, scalable **backend d
 - [**E-Learning Platform**](https://github.com/Mohaned178/ELearningPlatform) — courses and lessons API with JWT auth (.NET 8).
 - [**Booking System**](https://github.com/Mohaned178/BookingSystem) — booking backend in C#.
 
-### 💼 What I Do
-- Design and build high-throughput **RESTful APIs** with **ASP.NET Core** and **NestJS**, using async programming for efficiency.
-- Model and manage data with **SQL Server**, **PostgreSQL**, **EF Core** and **Prisma**.
-- Apply **CQRS**, **Clean Architecture**, and message-driven patterns (**Sagas**, RabbitMQ/MassTransit).
-- Secure systems with **JWT**, refresh-token rotation, and **OIDC**.
-- Improve performance with **caching (Redis / memory cache)** and structured logging; write tests with **xUnit**.
-
-### 🌱 Currently Exploring
-- **Microservices** and **cloud deployment** (Azure / AWS)
-- **Docker** and containerized, self-hostable systems
-- **Data structures & algorithms**
-
 ### 🤝 Let's Connect
 - Open to collaboration on challenging, maintainable backend projects.
 - Always seeking **freelance work** and open-source contributions.
+- Reach me on [LinkedIn](https://www.linkedin.com/in/mmohanadhesham/).
